@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Awais Sajid!
+### 🛡️ Security Engineer | GRC Analyst | Blockchain Auditor in the Making
 
-<!--
-**awais922609/awais922609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a **Security Engineer** with hands-on experience in deploying and configuring various security products. My passion for blockchain has driven me to pursue advanced learning in the space, with the goal of becoming a **Smart Contract Auditor**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm excited to continue my journey into the world of blockchain!
+
+---
+
+### 🔒 About Me:
+- 🔐 **Current Focus:** Hands-on security product deployment and configuration.
+- 🔗 **Blockchain Enthusiast:** Transitioning to become a **Smart Contract Auditor**.
+- 🎓 **Certifications:** Google, IBM, Trend Micro Security Engineer.
+- 📚 **Learning:** Advanced **Blockchain** & **Smart Contract Auditing**.
+- 🐍 **Love Coding:** Particularly in **Python** & **Solidity**.
+- 💡 **Looking for Opportunities:** I'm open to collaborating on security projects and blockchain audits.
+
+---
+
+### 🛠️ Skills & Expertise:
+- **Security Engineer:** Expertise in cybersecurity product deployment and configuration.
+- **GRC Analyst:** Governance, Risk, and Compliance experience.
+- **Blockchain Auditor:** In-depth understanding of blockchain technologies and smart contract auditing.
+- **Programming Languages:** Python, Solidity, C++.
+
+---
+
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awais-sajid)
+
+---
+
+### 📊 GitHub Stats:
+
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais922609&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais922609&layout=compact&theme=dark)
+
+---
+
+### 📚 Latest Articles:
+- [SQL Server -- A Detailed Explanation](https://medium.com/@black_Diamond/sql-server-a-detail-explanation-bb1f7d2b4062)
+- [Understanding Virtualization: A Simple Overview](https://medium.com/@black_Diamond/understanding-virtualization-a-simple-overview-f1099316c7a5)
+- [The bug which cost Ethereum $60 million dollars: Re-entrancy](https://medium.com/@black_Diamond/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy-7cb7aaa6187a)
+
+---
+
+### 🖥️ Tools & Technologies:
+- **Security Tools:** Trend Micro, Wazuh , IBM QRadar , Burp Suite.
+- **Blockchain Tools:** Solidity, Hardhat, Truffle.
+- **Other Technologies:** .
+
+---
+
+### 💬 Feel free to reach out for collaboration, discussion, or mentorship!
