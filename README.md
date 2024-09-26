@@ -2,7 +2,7 @@
 ### 🛡️ Security Engineer | GRC Analyst | Blockchain Auditor in the Making
 ---
 
-📊 ### My Coding Activity:
+### My Coding Activity 📊: 
 [![Awais's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asajid03)]
 
 
