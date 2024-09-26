@@ -1,5 +1,12 @@
 # Hi there 👋, I'm Awais Sajid!
 ### 🛡️ Security Engineer | GRC Analyst | Blockchain Auditor in the Making
+---
+
+📊 ### My Coding Activity:
+[![Awais's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asajid03)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ---
 
@@ -8,6 +15,7 @@ I am a **Security Engineer** with hands-on experience in deploying and configuri
 I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm excited to continue my journey into the world of blockchain!
 
 ---
+
 
 ### 🔒 About Me:
 - 🔐 **Current Focus:** Hands-on security product deployment and configuration.
@@ -48,9 +56,10 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 ---
 
 ### 🖥️ Tools & Technologies:
-- **Security Tools:** Trend Micro, Wazuh , IBM QRadar , Burp Suite.
+- **Security Tools:** Trend Micro, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
 - **Blockchain Tools:** Solidity, Hardhat, Truffle.
-- **Other Technologies:** .
+- **Other Technologies:** Car Hacking, Digital Forensics.
+
 
 ---
 
