@@ -41,8 +41,8 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 
 ### 📚 Latest Articles:
 
-<a href="https://medium.com/@black_Diamond/sql-server-a-detail-explanation-bb1f7d2b4062" target="_blank">SQL SERVER — A Detail Explanation</a>
-<a href="https://medium.com/@black_Diamond/understanding-virtualization-a-simple-overview-f1099316c7a5" target="_blank">Understanding Virtualization: A Simple Overview</a>
+<a href="https://medium.com/@black_Diamond/sql-server-a-detail-explanation-bb1f7d2b4062" target="_blank">SQL SERVER — A Detail Explanation</a><br/>
+<a href="https://medium.com/@black_Diamond/understanding-virtualization-a-simple-overview-f1099316c7a5" target="_blank">Understanding Virtualization: A Simple Overview</a><br/>
 <a href="https://medium.com/@black_Diamond/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy-7cb7aaa6187a" target="_blank">The bug which cost Ethereum $60 million dollars: Re-entrancy</a>
 
 ---
