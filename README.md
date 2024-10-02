@@ -48,7 +48,7 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 ---
 
 ### 🖥️ Tools & Technologies:
-- **Security Tools:** Trend Micro Deep Security, Inflox Threat Defense, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
+- **Security Tools:** Trend Micro Deep Security, Infoblox Blox1 Threat Defense, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
 - **Blockchain Tools:** Solidity, Hardhat, Truffle.
 - **Other Technologies:** Car Hacking, Digital Forensics.
 
