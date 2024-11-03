@@ -55,7 +55,7 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 ---
 
 ### My Coding Activity 📊: 
-![Awais's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asajid03&layout=compact)
+![Awais's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asajid03)
 
 ---
 
