@@ -39,18 +39,28 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 
 ---
 
-### 📚 Latest Articles:
 
-📔<a href="https://medium.com/@black_Diamond/sql-server-a-detail-explanation-bb1f7d2b4062" target="_blank">SQL SERVER — A Detail Explanation</a><br/>
-📔<a href="https://medium.com/@black_Diamond/understanding-virtualization-a-simple-overview-f1099316c7a5" target="_blank">Understanding Virtualization: A Simple Overview</a><br/>
-📔<a href="https://medium.com/@black_Diamond/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy-7cb7aaa6187a" target="_blank">The bug which cost Ethereum $60 million dollars: Re-entrancy</a>
+Here’s an optimized version of your content with added structure, icons, and visuals to make it visually appealing and engaging:
 
----
+📚 Latest Articles
+📔 SQL Server — A Detailed Explanation
+<img src="https://cdn-icons-png.flaticon.com/512/3190/3190556.png" alt="SQL Icon" width="20" style="vertical-align:middle;"> Dive deep into SQL Server, its architecture, and features that make it a robust database management system.
 
-### 🖥️ Tools & Technologies:
-- **Security Tools:** Trend Micro Deep Security, Infoblox Blox1 Threat Defense, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
-- **Blockchain Tools:** Solidity, Hardhat, Truffle.
-- **Other Technologies:** Car Hacking, Digital Forensics.
+📔 Understanding Virtualization: A Simple Overview
+<img src="https://cdn-icons-png.flaticon.com/512/2906/2906270.png" alt="Virtualization Icon" width="20" style="vertical-align:middle;"> Learn how virtualization simplifies infrastructure and enhances resource efficiency.
+
+📔 The Bug That Cost Ethereum $60M: Re-entrancy
+<img src="https://cdn-icons-png.flaticon.com/512/2748/2748601.png" alt="Ethereum Icon" width="20" style="vertical-align:middle;"> Explore the infamous re-entrancy bug and its impact on blockchain security.
+
+🖥️ Tools & Technologies
+🔒 Security Tools:
+<img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" alt="Security Icon" width="20" style="vertical-align:middle;"> Trend Micro Deep Security, Infoblox Blox1 Threat Defense, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
+
+⛓️ Blockchain Tools:
+<img src="https://cdn-icons-png.flaticon.com/512/2167/2167321.png" alt="Blockchain Icon" width="20" style="vertical-align:middle;"> Solidity, Hardhat, Truffle.
+
+🛠️ Other Technologies:
+<img src="https://cdn-icons-png.flaticon.com/512/3203/3203156.png" alt="Tools Icon" width="20" style="vertical-align:middle;"> Car Hacking, Digital Forensics.
 
 ---
 
