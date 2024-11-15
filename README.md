@@ -42,7 +42,7 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 
 Here’s an optimized version of your content with added structure, icons, and visuals to make it visually appealing and engaging:
 
-📚 Latest Articles
+### 📚 Latest Articles
 📔 SQL Server — A Detailed Explanation
 <img src="https://cdn-icons-png.flaticon.com/512/3190/3190556.png" alt="SQL Icon" width="20" style="vertical-align:middle;"> Dive deep into SQL Server, its architecture, and features that make it a robust database management system.
 
@@ -52,7 +52,9 @@ Here’s an optimized version of your content with added structure, icons, and v
 📔 The Bug That Cost Ethereum $60M: Re-entrancy
 <img src="https://cdn-icons-png.flaticon.com/512/2748/2748601.png" alt="Ethereum Icon" width="20" style="vertical-align:middle;"> Explore the infamous re-entrancy bug and its impact on blockchain security.
 
-🖥️ Tools & Technologies
+---
+
+### 🖥️ Tools & Technologies
 🔒 Security Tools:
 <img src="https://cdn-icons-png.flaticon.com/512/2462/2462719.png" alt="Security Icon" width="20" style="vertical-align:middle;"> Trend Micro Deep Security, Infoblox Blox1 Threat Defense, Wazuh, IBM QRadar, Burp Suite, Nessus, Splunk, Metasploit.
 
