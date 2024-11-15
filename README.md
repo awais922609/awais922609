@@ -43,13 +43,13 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 Here’s an optimized version of your content with added structure, icons, and visuals to make it visually appealing and engaging:
 
 ### 📚 Latest Articles
-📔 SQL Server — A Detailed Explanation
+📔 <a href="https://medium.com/@black_Diamond/sql-server-a-detail-explanation-bb1f7d2b4062" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3190/3190556.png" alt="SQL Icon" width="20" style="vertical-align:middle;"> Dive deep into SQL Server, its architecture, and features that make it a robust database management system.
 
-📔 Understanding Virtualization: A Simple Overview
+📔 <a href="https://medium.com/@black_Diamond/understanding-virtualization-a-simple-overview-f1099316c7a5" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2906/2906270.png" alt="Virtualization Icon" width="20" style="vertical-align:middle;"> Learn how virtualization simplifies infrastructure and enhances resource efficiency.
 
-📔 The Bug That Cost Ethereum $60M: Re-entrancy
+📔 <a href="https://medium.com/@black_Diamond/the-bug-which-cost-ethereum-60-million-dollars-re-entrancy-7cb7aaa6187a" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2748/2748601.png" alt="Ethereum Icon" width="20" style="vertical-align:middle;"> Explore the infamous re-entrancy bug and its impact on blockchain security.
 
 ---
