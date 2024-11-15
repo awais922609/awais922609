@@ -35,7 +35,8 @@ I am certified by **Google**, **IBM**, and **Trend Micro** in security, and I'm 
 
 ![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais922609&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais922609&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais922609&layout=compact&theme=dark&card_width=500)
+
 
 ---
 
